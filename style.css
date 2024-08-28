@@ -1,0 +1,33 @@
+body{
+    background-color: #fff3f4;
+  }
+  h1{
+    font-size: 60px;
+    text-align: center
+  }
+  h2{
+    margin-left: 60px;
+    color: black
+  }
+  img{
+    width: 500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto
+  }
+  h3{
+    margin-left: 60px;
+  }
+  h4{
+    margin-left: 15px;
+    font-size: 20px;
+  }
+  h5{
+    margin-top: 50px;
+    text-align: center
+  }
+  button{
+    margin-top: 60px;
+    padding: 12px;
+    background-color: #ffcbdb
+  }
